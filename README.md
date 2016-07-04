@@ -12,13 +12,13 @@ I've included all the necessary npm modules, which are installed as follows :+1:
 ```bat
 npm install express -- save
 npm install morgan --save
-pm install body-parser --saven
+pm install body-parser --save
 ```
 
 TODO:
 
  * add swagger-node: automagic generation of endpoint code via Swagger YAML file
- * add a127: further suport for advanced features including caching and Oauth2
+ * add a127: further support for advanced features including caching and Oauth2
  
 
 Inspiration for this project comes from  [coursera](http://coursera.org/)'s specialization, "Responsive Website Design".
