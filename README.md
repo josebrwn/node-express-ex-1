@@ -12,7 +12,7 @@ I've included all the necessary npm modules, which are installed as follows :+1:
 ```bat
 npm install express -- save
 npm install morgan --save
-pm install body-parser --save
+npm install body-parser --save
 ```
 
 TODO:
